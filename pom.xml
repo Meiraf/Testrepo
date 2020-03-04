@@ -30,7 +30,7 @@
 				<cloudHubDeployment>
 		          <username>mtade</username> 
 		          <password>Myanypoint20</password> 
-		          <applicationName>jenkins-demo</applicationName>
+		          <applicationName>jenkins-demo-app</applicationName>
 		          <environment>Sandbox</environment>
 		          <workerType>Micro</workerType>
 		          <workers>1</workers>
